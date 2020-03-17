@@ -542,7 +542,7 @@ img {
 }
 
 .img-2 {
-	background: url("shopping-cart-2.PNG") top center no-repeat !important;
+	background: url("shopping-cart-2.png") top center no-repeat !important;
 
 }
 
@@ -551,7 +551,7 @@ img {
 }
 
 .project-img {
-	background: url("todolist.png") left no-repeat;
+	background: url("todolist.PNG") left no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	width: 100%;
