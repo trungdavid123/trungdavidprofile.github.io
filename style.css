@@ -273,6 +273,7 @@ header {
 
 }
 
+
 img {
 	width: 100%;
 	max-width: 100%;
@@ -547,6 +548,10 @@ img {
 
 .img-3 {
 	background: url("Background.png") top center no-repeat !important;
+}
+
+.img-4 {
+	background: url("https://www.free-css.com/assets/images/free-css-templates/page203/e-shopper.jpg") top center no-repeat !important;
 }
 
 .project-img {
